@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeeswaran03" alt="yogeeswaran03" /></a> </p>
 
-- 👨‍💻 Porfolio [https://portfolio-xi-ruddy-99.vercel.app/](https://portfolio-xi-ruddy-99.vercel.app/)
+- 👨‍💻 Porfolio [https://portfolio-xi-ruddy-99.vercel.app/](https://yogeeswaran-m.vercel.app/)
 
 - 📫 How to reach me **yogees97@gmail.com**
 
